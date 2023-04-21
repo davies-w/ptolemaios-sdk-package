@@ -8,6 +8,7 @@ setup(
         author='Winton Davies',
         author_email='wdavies@cs.stanford.edu',
         license='unlicense',
+        requirements=['numpy']
         packages=['ptolemaios'],
         zip_safe=False
     )

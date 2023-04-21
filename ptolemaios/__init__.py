@@ -1,1 +1,1 @@
-import .ptolemaios 
+from ptolemaios.ptolemaios import *

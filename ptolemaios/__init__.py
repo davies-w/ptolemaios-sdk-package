@@ -1,1 +1,1 @@
-from ptolemaios.ptolemaios import *
+from ptolemaios.ptolemaios import my_array

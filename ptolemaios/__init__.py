@@ -1,3 +1,5 @@
+# ptolemaios-sdk-package/ptolemaios/__init__.py
+#
 # Copyright 2023 Winton Davies
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
